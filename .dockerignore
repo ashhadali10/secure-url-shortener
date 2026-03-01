@@ -1,0 +1,31 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local files you don't want in image
+README.md
+tests/
